@@ -13,3 +13,13 @@ The code asks three questions to help you scrape contact information from yellow
 
 (4) Which page do you want to start on. This feature has been added to allow you to start from the search results on e.g. page 5 in case you've already scraped pages 1-4. This makes it easier to scrape in batches. 
 
+Outputs contacts to CSV with the following information:
+
+- Company name
+- Company description
+- Phone number
+- E-mail (if any)
+- Website (if any)
+- State
+- Suburb
+- Postcode
